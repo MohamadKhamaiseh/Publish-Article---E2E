@@ -1,0 +1,8 @@
+{
+    "testFiles": "**/*.{feature, features}",
+    "baseUrl": "https://demo.productionready.io/#/",
+    "viewportHeight": 900,
+    "viewportWidth": 1400,
+    "defaultCommandTimeout": 10000
+
+}
